@@ -6,9 +6,23 @@
     <atom:link href="https://kamies-blog.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 30 Mar 2025 10:24:03 -0700</pubDate>
-    <lastBuildDate>Sun, 30 Mar 2025 10:24:03 -0700</lastBuildDate>
+    <pubDate>Sun, 30 Mar 2025 10:32:54 -0700</pubDate>
+    <lastBuildDate>Sun, 30 Mar 2025 10:32:54 -0700</lastBuildDate>
 
+    <item>
+      <title>Images are Currently Broken</title>
+      <link>https://kamies-blog.netlify.app/blog/images-broken.html</link>
+      <pubDate>Sun, 30 Mar 2025 10:32:53 -0700</pubDate>
+      <guid isPermaLink="false">blog/images-broken.html</guid>
+      	<description>
+	&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;I have no clue why, but the next day after I finished work on the website, images just broke.&lt;/p&gt; 
+&lt;/div&gt; 
+&lt;div class=&quot;paragraph&quot;&gt; 
+ &lt;p&gt;I submitted an issue on JBake’s code repository, and I hope I get a response. I’m kind of doubting it though, as the last issue was in 2023 (I think). I might have to create a website in some other thing like &lt;code&gt;11ty&lt;/code&gt;.&lt;/p&gt; 
+&lt;/div&gt;
+	</description>
+    </item>
     <item>
       <title>The (hopefully) final new website!</title>
       <link>https://kamies-blog.netlify.app/blog/new-website-again.html</link>

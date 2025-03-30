@@ -1,0 +1,11 @@
+= Images are Currently Broken
+2025-03-30
+// post/page
+:jbake-type: post
+// draft/published
+:jbake-status: published
+:jbake-tags: website, bugs
+
+I have no clue why, but the next day after I finished work on the website, images just broke.
+
+I submitted an issue on JBake's code repository, and I hope I get a response. I'm kind of doubting it though, as the last issue was in 2023 (I think). I might have to create a website in some other thing like `11ty`.
