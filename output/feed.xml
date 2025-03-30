@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kamie's Blog</title>
-    <link>http://localhost:8820/</link>
+    <link>https://kamies-blog.netlify.app</link>
     <atom:link href="http://localhost:8820//feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 30 Mar 2025 10:08:54 -0700</pubDate>
-    <lastBuildDate>Sun, 30 Mar 2025 10:08:54 -0700</lastBuildDate>
+    <pubDate>Sun, 30 Mar 2025 10:22:26 -0700</pubDate>
+    <lastBuildDate>Sun, 30 Mar 2025 10:22:26 -0700</lastBuildDate>
 
     <item>
       <title>The (hopefully) final new website!</title>
