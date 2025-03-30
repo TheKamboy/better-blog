@@ -1,0 +1,57 @@
+= Testing Page
+2025-03-30
+// post/page
+:jbake-type: page
+// draft/published
+:jbake-status: published
+// :jbake-tags: testing
+
+[NOTE]
+====
+You can safely ignore this page, it was created to test the websites `CSS`.
+
+99% of the examples shown are from https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference[AsciiDoctor's Syntax Quick Reference].
+====
+
+== Subheading
+=== Subheading
+==== Subheading
+===== Subheading
+====== Subheading
+
+A normal paragraph.
+
+ A literal paragraph.
+ One or more consecutive lines indented by at least one space.
+
+ The text is shown in a fixed-width (typically monospace) font.
+ The lines are preformatted (i.e., as formatted in the source).
+ Spaces and newlines,
+ like the ones in this sentence,
+ are preserved.
+
+* Level 1 list item
+** Level 2 list item
+*** Level 3 list item
+**** Level 4 list item
+***** Level 5 list item
+****** etc.
+* Level 1 list item
+
+
+. Level 1 list item
+.. Level 2 list item
+... Level 3 list item
+.... Level 4 list item
+..... Level 5 list item
+. Level 1 list item
+
+.Some Ruby code
+[source,ruby]
+----
+require 'sinatra'
+
+get '/hi' do
+  "Hello World!"
+end
+----

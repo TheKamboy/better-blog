@@ -1,0 +1,15 @@
+= Website TODOs
+2025-03-30
+// post/page
+:jbake-type: page
+// draft/published
+:jbake-status: published
+:jbake-tags: website, todo
+
+* [ ] Convert website to dark mode
+** [ ] Main Website
+*** [ ] Base.css
+*** [ ] Bootstrap.css
+*** [ ] Prettify.css
+*** [ ] AsciiDoctor.css
+* [ ] Fix Image Bug

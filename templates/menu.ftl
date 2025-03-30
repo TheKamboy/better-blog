@@ -30,6 +30,12 @@
             </li>
             -->
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Archive</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>other/todos.html">Website TODOs</a></li>
+              </ul>
+            </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
