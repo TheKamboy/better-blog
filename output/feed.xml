@@ -3,15 +3,15 @@
   <channel>
     <title>Kamie's Blog</title>
     <link>https://kamies-blog.netlify.app</link>
-    <atom:link href="http://localhost:8820//feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kamies-blog.netlify.app/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 30 Mar 2025 10:22:26 -0700</pubDate>
-    <lastBuildDate>Sun, 30 Mar 2025 10:22:26 -0700</lastBuildDate>
+    <pubDate>Sun, 30 Mar 2025 10:24:03 -0700</pubDate>
+    <lastBuildDate>Sun, 30 Mar 2025 10:24:03 -0700</lastBuildDate>
 
     <item>
       <title>The (hopefully) final new website!</title>
-      <link>http://localhost:8820//blog/new-website-again.html</link>
+      <link>https://kamies-blog.netlify.app/blog/new-website-again.html</link>
       <pubDate>Sat, 29 Mar 2025 21:39:33 -0700</pubDate>
       <guid isPermaLink="false">blog/new-website-again.html</guid>
       	<description>

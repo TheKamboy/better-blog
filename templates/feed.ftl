@@ -3,7 +3,7 @@
   <channel>
     <title>Kamie's Blog</title>
     <link>https://kamies-blog.netlify.app</link>
-    <atom:link href="${config.site_host}/${config.feed_file}" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kamies-blog.netlify.app/${config.feed_file}" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
     <pubDate>${published_date?string("EEE, d MMM yyyy HH:mm:ss Z")}</pubDate>
@@ -12,7 +12,7 @@
     <#list published_posts as post>
     <item>
       <title><#escape x as x?xml>${post.title}</#escape></title>
-      <link>${config.site_host}/${post.uri}</link>
+      <link>https://kamies-blog.netlify.app/${post.uri}</link>
       <pubDate>${post.date?string("EEE, d MMM yyyy HH:mm:ss Z")}</pubDate>
       <guid isPermaLink="false">${post.uri}</guid>
       	<description>
