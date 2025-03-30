@@ -1,0 +1,7 @@
+= Post Title
+date
+// post/page
+:jbake-type: post
+// draft/published
+:jbake-status: draft
+:jbake-tags:

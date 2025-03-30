@@ -1,0 +1,27 @@
+= About
+2025-03-29
+// post/page
+:jbake-type: page
+// draft/published
+:jbake-status: published
+:jbake-tags: about
+:toc: auto
+
+== About Myself
+My name is Kamie, and I'm a teenage trans furry. I have been coding since I was 11 (I think).
+
+This is my fursona, with the same name as me:
+
+image::./img/furry_shit_lol/me_4.png[My Fursona,256,256]
+
+== About the Website
+This website was made for these reasons:
+
+* Blog my life
+* Programming Projects
+* And more!
+
+== How the website was created
+image::about/jbake_logo.png[role=right]
+
+This website was created using https://jbake.org/[JBake], a tool designed for creating static websites.
